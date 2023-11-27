@@ -63,7 +63,7 @@ export default function App() {
 
   return (
     <>
-      <h1>Bill-n-Split </h1>
+      <h1 className="header">Bill-n-Split </h1>
       <div className="app">
         <div className="sidebar">
           <FriendsList
